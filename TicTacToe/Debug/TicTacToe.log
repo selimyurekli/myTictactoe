@@ -1,0 +1,3 @@
+﻿  TicTacToe.cpp
+C:\Users\selim\source\repos\TicTacToe\TicTacToe\TicTacToe.cpp(139,10): warning C4101: 'ch': yerel değişken başvurusu kaldırıldı
+  TicTacToe.vcxproj -> C:\Users\selim\source\repos\TicTacToe\Debug\TicTacToe.exe

@@ -1,0 +1,2 @@
+C:\Users\selim\source\repos\TicTacToe\TicTacToe\Debug\TicTacToe.exe
+C:\Users\selim\source\repos\TicTacToe\TicTacToe\Debug\TicTacToe.pdb
